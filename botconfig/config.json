@@ -1,12 +1,12 @@
 {
-   "token": "Bot Token",
+   "token": "MTAwMDE4NTgwNzU4NTQxMTEyMg.GiYTZF.nectrLw8mCUE4fUJenDDmT9sBXpphtxFEadiGg",
    "prefix": "?",
    "ownerIDS": [
-      "442355791412854784"
+      "724973101577928746"
    ],
    "status": {
-      "text": "{prefix}help | played {songsplayed} Songs on {guildcount} Guilds | Support: discord.gg/milrato",
-      "text2": "By: milrato.dev",
+      "text": "{prefix}help | played {songsplayed} Songs on {guildcount} Guilds | Support: discord.gg/DARK^mode",
+      "text2": "By: Ak4r.",
       "type": "PLAYING",
       "url": "https://twitch.tv/#"
    },
@@ -20,7 +20,7 @@
       ]
    },
    "spotify": {
-      "clientID": "",
-      "clientSecret": ""
+      "clientID": "85fa61f4f5f04a3bb2309916b2151184",
+      "clientSecret": "3766a2f673ec491eaf789e16ab7c790b"
    }
 }
