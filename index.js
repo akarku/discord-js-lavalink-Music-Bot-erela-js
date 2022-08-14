@@ -83,7 +83,7 @@ Array("extraevents", "loaddb", "clientvariables", "command", "events", "erelahan
 /**********************************************************
  * @param {6} Login_to_the_Bot
 *********************************************************/
-client.login(process.env.token || config.token);
+client.login(config.token);
 
 
 
